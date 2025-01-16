@@ -1,3 +1,5 @@
+![alt text](https://www.estudarfora.org.br/wp-content/uploads/2020/09/FE-EF.jpg)
+
 # Curso CS50 - Harvard 🎓 
 ### About the Course
 This repository was created to track and store my progress in the CS50 (Introduction to Computer Science) course offered by Harvard University. 🌟
