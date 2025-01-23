@@ -19,11 +19,6 @@ int w = count_w(t);
 // frases
 int s = count_s(t);
 
-
-
-
-
-
     //Calcular L  e S
      float L = (float)l / w * 100;
      float S = (float)s / w * 100;
