@@ -1,4 +1,4 @@
-<img src="https://www.estudarfora.org.br/wp-content/uploads/2020/09/FE-EF.jpg" width="850" align="center">
+<img src="https://www.estudarfora.org.br/wp-content/uploads/2020/09/FE-EF.jpg" width="750" align="center">
 
 # Curso CS50 - Harvard 🎓 
 ### About the Course
