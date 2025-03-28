@@ -1,19 +1,21 @@
-<img src="https://www.estudarfora.org.br/wp-content/uploads/2020/09/FE-EF.jpg" width="750" align="center">
+<div align="center">
+  <img src="https://www.estudarfora.org.br/wp-content/uploads/2020/09/FE-EF.jpg" width="550">
+</div>
 
 # Curso CS50 - Harvard 🎓 
-### About the Course
-This repository was created to track and store my progress in the CS50 (Introduction to Computer Science) course offered by Harvard University. 🌟
+### Sobre o curso
+Este repositório foi criado para rastrear e armazenar meu progresso no curso CS50 (Introdução à Ciência da Computação) oferecido pela Universidade de Harvard. 🌟
 
-CS50 is one of the most renowned courses in the world of computer science, designed to teach the fundamentals of programming, algorithms, data structures, and much more, in a practical and challenging way. 🔍✨
+O CS50 é um dos cursos mais renomados do mundo da ciência da computação, projetado para ensinar os fundamentos da programação, algoritmos, estruturas de dados e muito mais, de forma prática e desafiadora. 🔍✨
 
-💡 What you will find in this repository:
+💡 O que você encontrará neste repositório:
 
-- My problem set codes (PSets) 📂
+- Meus códigos de conjuntos de problemas (PSets) 📂
 
-- Projects developed throughout the course 🚀
+- Projetos desenvolvidos ao longo do curso 🚀
 
-- Additional experiments and challenges 💡
+- Experimentos e desafios adicionais 💡
 
-Taking part in this course has been an incredible experience and a unique opportunity to deepen my knowledge in computer science and programming! 🎉
+Participar deste curso foi uma experiência incrível e uma oportunidade única de aprofundar meus conhecimentos em ciência da computação e programação! 🎉
 
-### 🚀 Technologies Used
+### 🚀 Tecnologias Utilizadas
